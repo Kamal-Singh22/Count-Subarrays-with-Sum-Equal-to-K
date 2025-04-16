@@ -22,4 +22,4 @@ sum = 0 → add 1 → sum = 1 → not found sum-k= -1 → map: {0=1, 1=1}
 
 sum = 1 → add 1 → sum = 2 → sum-k=0 → found! count = 1 → map: {0=1, 1=1, 2=1}
 
-sum = 2 → add 1 → sum = 3 → sum-k=1 → found! count = 2 → map: {0=1, 1=1, 2=1, 3=1}
+sum = 2 → add 1 → sum = 3 → sum-k=1 → found! count = 2 → map: {0=1, 1=1, 2=1, 3=1}....
